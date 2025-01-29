@@ -1,0 +1,6 @@
+openai 
+hugging face
+Langchain 
+streamlit 
+python-dotenv
+pypdf2
